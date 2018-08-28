@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "286196730795",
+    "firebase_url": "https://mychat-642af.firebaseio.com",
+    "project_id": "mychat-642af",
+    "storage_bucket": "mychat-642af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286196730795:android:420d7404969a5a95",
+        "android_client_info": {
+          "package_name": "com.matechs.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286196730795-t0cd6n014uhj76065jb7jlb19mg3crti.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjQdIhcfxNNgRFWcLfZnXpNQdCMO0QCRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
